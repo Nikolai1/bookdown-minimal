@@ -1,7 +1,5 @@
-This is a minimal bookdown example. Although you see a few files here, only `index.Rmd` is required. All other files are optional, but `bookdown-minimal.Rproj` can make it much easier to build the book.
-
-The key is the `site` setting in `index.Rmd`. If you want to build the book in RStudio, just click the `Build Book` button in the `Build` pane, otherwise call the function in R:
-
-```r
-bookdown::render_book('index.Rmd', 'all')
-```
+Detta är en populärvetenskaplig bok och vägledning för idrottare med luftvägsbesvär. Den vänder sig i första hand till idrottsutövare, tränare och idrottsmedicinsk personal.   
+Boken är tänkt att vara ett "levande dokument" som uppdateras fortlöpande.    
+Synpunkter på och önskemål om innehåll tas tacksamt emot.  
+Östersund, 2018-10-25  
+Nikolai Stenfors, nikolai.stenfors@umu.se  
