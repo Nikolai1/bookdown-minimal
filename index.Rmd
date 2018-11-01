@@ -1,17 +1,23 @@
 ---
-title: "Idrott och luftvägarna, en vägledning"
+title: "Idrott och luftvägarna"
+subtitel: "En vägledning"
 author: "Nikolai Stenfors"
-date: "2018-10-25"
+date: '2018-10-25'
+output:
+  bookdown::gitbook: default
+  #bookdown::pdf_book: default
 site: bookdown::bookdown_site
 documentclass: book
-output:
-  #bookdown::pdf_book: default
-  bookdown::gitbook: default
+bibliography: [references.bib]
+biblio-style: unsrt
+link-citations: yes
+
 ---
 # Förord
-Detta är en populärvetenskaplig bok och vägledning för idrottare med luftvägsbesvär. Den vänder sig i första hand till idrottsutövare, tränare och idrottsmedicinsk personal. Boken är tänkt att vara ett "levande dokument" som uppdateras fortlöpande. Synpunkter på och önskemål om innehåll tas tacksamt emot.  
+Detta är en populärvetenskaplig bok och vägledning för idrottare med luftvägsbesvär. Den vänder sig i första hand till idrottsutövare, tränare och idrottsmedicinsk personal. Boken är tänkt att vara ett "levande dokument" som uppdateras fortlöpande. Lämna gärna synpunkter på eller önskemål om innehåll.  
 Östersund, 2018-10-25    
-Nikolai Stenfors, nikolai.stenfors@umu.se
+Nikolai Stenfors  
+nikolai.stenfors@umu.se   
 
 # Om författaren
 Jag jobbar som universitetslektor och docent vid [Enheten för Medicin, Institutionen för folkhälsa och klinisk medicin, Umeå Universitet](https://www.umu.se/personal/nikolai-stenfors/)  där jag bl.a. undervisar om Lungsjukdomar på [Läkarprogrammet](https://www.umu.se/utbildning/program/lakarprogrammet) och forskar kring luftvägseffekter av fysisk aktivitet i kyla.    
@@ -20,11 +26,15 @@ Jag jobbar även som överläkare vid [Lungmottagningen Östersunds sjukhus](htt
 # För idrottare  
 
 ## För dig med läkardiagnosticerad astma   
-Astma är en kronisk inflammatorisk luftvägssjukdom som förekommer hos cirka 9% av Sveriges befolkning. Individer med astma har överkänsliga (hyperreaktiva) luftrör som leder till återkommande episoder av luftrörsförträngning med pipande andning, tryck över bröstet, hosta och andfåddhet. Luftrörskrampen hävs spontant eller med hjälp av luftrörsvidgande inhalationsläkemedel. Ansträngningsutlöst astma innebär akut övergående luftrörssammandragning i samband med fysisk ansträngning och är mycket vanligt hos personer med astma.   
+Astma är en kronisk inflammatorisk luftvägssjukdom som förekommer hos cirka 9% av Sveriges befolkning [ @loetvall-2009-west-sweden]. Individer med astma har överkänsliga (hyperreaktiva) luftrör som leder till återkommande episoder av luftrörsförträngning med pipande andning, tryck över bröstet, hosta och andfåddhet. Luftrörskrampen hävs spontant eller med hjälp av luftrörsvidgande inhalationsläkemedel. Ansträngningsutlöst astma innebär akut övergående luftrörssammandragning i samband med fysisk ansträngning och är mycket vanligt hos personer med astma.  
 God kunskap om sjukdomen leder till mindre besvär. Du kan läsa mer om sjukdomen på [1177 Vårdguiden](https://www.1177.se/Jamtland-Harjedalen/Fakta-och-rad/Sjukdomar/Astma/), [Hjärt-Lungfonden](https://www.hjart-lungfonden.se/Sjukdomar/Lungsjukdomar/Astma/) och [Läkemedelsverket](https://lakemedelsverket.se/malgrupp/Allmanhet/Behandlingsrekommendationerna/Behandlingsrekommendationer-A-O/Behandlingsrekommendationer---listan/Astma/).
 
 ### Behandling
 Värmeväxlande andningmasker minskar effektiv ansträngningsutlöst astma vid träning i kyla eller låg luftfuktighet. 
+En svensk studie har visat att de tom är lika effektiva som luftrörsvidgande astmamedicin [@millqvist-2000-combin-with].    
+
 
 # Tack till  
 Jag vill tacka tränare och ledare vid Svenska Skidförbundet, Svenska Skidskytteförbundet och Riksidrottsgymnasierna (längdskidor, skidskytte, skidorientering, orientering) för inspiration till denna bok.
+
+# Litteraturlista  
