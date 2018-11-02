@@ -1,5 +1,6 @@
 ---
 title: "Idrott och luftvägarna"
+
 subtitel: "En vägledning"
 author: "Nikolai Stenfors"
 date: '2018-10-25'
@@ -25,14 +26,16 @@ Jag jobbar även som överläkare vid [Lungmottagningen Östersunds sjukhus](htt
 
 # För idrottare  
 
-## För dig med läkardiagnosticerad astma   
+## För dig med astma   
 Astma är en kronisk inflammatorisk luftvägssjukdom som förekommer hos cirka 9% av Sveriges befolkning [ @loetvall-2009-west-sweden]. Individer med astma har överkänsliga (hyperreaktiva) luftrör som leder till återkommande episoder av luftrörsförträngning med pipande andning, tryck över bröstet, hosta och andfåddhet. Luftrörskrampen hävs spontant eller med hjälp av luftrörsvidgande inhalationsläkemedel. Ansträngningsutlöst astma innebär akut övergående luftrörssammandragning i samband med fysisk ansträngning och är mycket vanligt hos personer med astma.  
 God kunskap om sjukdomen leder till mindre besvär. Du kan läsa mer om sjukdomen på [1177 Vårdguiden](https://www.1177.se/Jamtland-Harjedalen/Fakta-och-rad/Sjukdomar/Astma/), [Hjärt-Lungfonden](https://www.hjart-lungfonden.se/Sjukdomar/Lungsjukdomar/Astma/) och [Läkemedelsverket](https://lakemedelsverket.se/malgrupp/Allmanhet/Behandlingsrekommendationerna/Behandlingsrekommendationer-A-O/Behandlingsrekommendationer---listan/Astma/).
 
-### Behandling
+### Värmeväxlare/andningmasker
 Värmeväxlande andningmasker minskar effektiv ansträngningsutlöst astma vid träning i kyla eller låg luftfuktighet. 
 En svensk studie har visat att de tom är lika effektiva som luftrörsvidgande astmamedicin [@millqvist-2000-combin-with].    
 
+### Uppvärmning
+En uppvärmning mha 8-10 st 30 sekunders högintensiva intervaller kan förhindra att du drabbas av  ansträngningsutlöst astma. Effekten varar drygt en timme. En kontinuerlig låg-medelintensiv uppvärming utan intervaller ("jogga runt i en kvart") har ingen förebyggande effekt[@stickland-2012-effec-warm].     
 
 # Tack till  
 Jag vill tacka tränare och ledare vid Svenska Skidförbundet, Svenska Skidskytteförbundet och Riksidrottsgymnasierna (längdskidor, skidskytte, skidorientering, orientering) för inspiration till denna bok.
