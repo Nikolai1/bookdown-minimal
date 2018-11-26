@@ -13,7 +13,7 @@ link-citations: yes
 
 ---
 # Förord
-Detta är en populärvetenskaplig bok och vägledning för vuxna idrottare med luftvägsbesvär. Boken är tänkt att vara ett "levande dokument" som uppdateras fortlöpande. Lämna gärna synpunkter på eller önskemål om innehåll.  
+Detta är en populärvetenskaplig bok och vägledning för vuxna idrottare med luftvägsbesvär. Boken är tänkt att vara ett "levande dokument" som uppdateras fortlöpande. Lämna gärna synpunkter på eller önskemål om innehållet.  
 Östersund, 2018-10-25,      
 Nikolai Stenfors  
 nikolai.stenfors@umu.se   
@@ -25,22 +25,43 @@ Jag jobbar även som överläkare vid [Lungmottagningen Östersunds sjukhus](htt
 # För idrottare
 
 ## För dig med symtom
+Besvär vs symtom vs sjukdom
+
+### Astmaläkemedel utan astma
+Det kan i undantagsfall inträffa att en idrottare uppvisar symtom på [astma] (#astma).
 
 ### Hosta
 Ansträngningsutlöst hosta är vanligt förekommande bland idrottare och kan vara ett tecken på luftvägsinfektion eller annan sjukdom i övre eller nedre luftvägarna.
 
-## För dig med astma   
-Astma är en kronisk inflammatorisk luftvägssjukdom som förekommer hos cirka 9% av Sveriges befolkning [ @loetvall-2009-west-sweden]. Individer med astma har överkänsliga (hyperreaktiva) luftrör som leder till återkommande episoder av luftrörsförträngning med pipande andning, tryck över bröstet, hosta och andfåddhet. Luftrörskrampen hävs spontant eller med hjälp av luftrörsvidgande inhalationsläkemedel. Ansträngningsutlöst astma innebär akut övergående luftrörssammandragning i samband med fysisk ansträngning och är mycket vanligt hos personer med astma.  
-God kunskap om sjukdomen leder till mindre besvär. Du kan läsa mer om sjukdomen på [1177 Vårdguiden](https://www.1177.se/Jamtland-Harjedalen/Fakta-och-rad/Sjukdomar/Astma/), [Hjärt-Lungfonden](https://www.hjart-lungfonden.se/Sjukdomar/Lungsjukdomar/Astma/) och [Läkemedelsverket](https://lakemedelsverket.se/malgrupp/Allmanhet/Behandlingsrekommendationerna/Behandlingsrekommendationer-A-O/Behandlingsrekommendationer---listan/Astma/).
+## [För dig med astma](#astma)   
+Astma är en kronisk inflammatorisk luftvägssjukdom som förekommer hos cirka 9% av Sveriges befolkning [ @loetvall-2009-west-sweden]. Individer med astma har överkänsliga (hyperreaktiva) luftrör som leder till återkommande episoder av luftrörsförträngning med pipande andning, tryck över bröstet, hosta och andfåddhet. Luftrörskrampen hävs spontant eller med hjälp av luftrörsvidgande inhalationsläkemedel. **Ansträngningsutlöst astma** innebär akut övergående luftrörssammandragning i samband med fysisk ansträngning och är mycket vanligt hos personer med astma.  
+God kunskap om sjukdomen leder till bättre kontroll av sjukdomen och mindre besvär. Du kan läsa mer om sjukdomen på [1177 Vårdguiden](https://www.1177.se/Jamtland-Harjedalen/Fakta-och-rad/Sjukdomar/Astma/), [Hjärt-Lungfonden](https://www.hjart-lungfonden.se/Sjukdomar/Lungsjukdomar/Astma/) och [Läkemedelsverket](https://lakemedelsverket.se/malgrupp/Allmanhet/Behandlingsrekommendationerna/Behandlingsrekommendationer-A-O/Behandlingsrekommendationer---listan/Astma/).
+
+### Läkemedel
+
+En bra vägledning kring astmamediciner finns på [Läkemedelsverkets hemsida] https://lakemedelsverket.se/malgrupp/Allmanhet/Behandlingsrekommendationerna/Behandlingsrekommendationer-A-O/Behandlingsrekommendationer---listan/Astma/. Det är viktigt att läkemedelsbehandling utvärderas regelbundet (1-2 gånger per år) för se över graden av astmakontroll, dosering och eventuella biverkningar av läkemedlen, inhalationsteknik osv.   
 
 ### Värmeväxlare/andningmasker
 Värmeväxlande andningmasker minskar effektiv ansträngningsutlöst astma vid träning i kyla eller låg luftfuktighet. 
-En svensk studie har visat att de tom är lika effektiva som luftrörsvidgande astmamedicin [@millqvist-2000-combin-with].    
+En studie har visat att de kan vara lika effektiva som luftrörsvidgande astmamedicin [@millqvist-2000-combin-with].    
 
 ### Uppvärmning
 En uppvärmning mha 8-10 st 30 sekunders högintensiva intervaller kan förhindra att du drabbas av  ansträngningsutlöst astma. Effekten varar drygt en timme. En kontinuerlig låg-medelintensiv uppvärming utan intervaller ("jogga runt i en kvart") har ingen förebyggande effekt[@stickland-2012-effec-warm].     
 
 # För sjukvårdspersonal
+
+## Astma
+
+### Diagnostik
+Upprepade mätningar av PEF eller FEV1 under 1-2 veckor kan användas för att påvisa reversibel bronkobstruktion, ett nyckelkriterium för astma. Sensitiviteten för dessa diagnostiska test ligger på ca 50% [Referens].  
+PEF mäts två gånger per dag under 1 vecka. Varje dag beräknas PEF-variabiliteten ((bästa PEF-lägsta
+PEF)/medelvärdet av dagens två mätningar). Efter en veckas mätningar
+beräknas medelvärdet av dessa sju mätningar. Signifikant
+PEF-variabilitet föreligger om A) medelvärdet av sju mätningar > 10% eller B) PEF varierar > 20% inom en dag.
+
+FEV1 kan mätas några gånger under valfri period. Om bästa-sämsta FEV1 skiljer sig mer än 12% OCH 0,2L föreligger signifikant FEV1-variabilitet.
+
+
 
 ## Hosta
 En första medicinsk bedömning av idrottare med akut eller återkommande hosta bör fokusera på de vanligaste orsakerna: astma, luftvägsinfektioner, rinosinusit och exponering för irritanter/allergen i idrottarens omgivning. Hos idrottare där utlösande orsak inte kunnat fastställas har flertalet olika behandlingar, fra inhalationsläkemedel, provats utan övertygande effekt [@boulet-2017-cough-athlet] 
