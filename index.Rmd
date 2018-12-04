@@ -58,9 +58,9 @@ PEF mäts två gånger per dag under 1 vecka. Varje dag beräknas PEF-variabilit
 PEF)/medelvärdet av dagens två mätningar). Efter en veckas mätningar
 beräknas medelvärdet av dessa sju mätningar. Signifikant
 PEF-variabilitet föreligger om medelvärdet av sju mätningar > 10%. 
-En signifikant **dygns-variabilitet** anser föreligga om  PEF varierar mer än 20% inom ett dygn. För att öka sannolikheten att påvisa dygn-variabilitet rekommenderas minst 4 PEF-mätningar jämnt fördelat över ett dygn.
+En signifikant **dygns-variabilitet** anses föreligga om  PEF varierar mer än 20% inom ett dygn. För att öka sannolikheten att påvisa dygn-variabilitet rekommenderas minst 4 PEF-mätningar jämnt fördelat över ett dygn. Mätningarna bör göras över 1-2 veckor. 
 
-FEV1 kan mätas några gånger under valfri period. Om bästa-sämsta FEV1 skiljer sig mer än 12% OCH 0,2L föreligger signifikant FEV1-variabilitet.
+FEV1 kan mätas några gånger under förslagsvis 1-2 veckor. Om bästa-sämsta FEV1 skiljer sig mer än 12% OCH 0,2L föreligger signifikant FEV1-variabilitet.
 
 
 
