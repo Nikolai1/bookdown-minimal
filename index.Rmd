@@ -19,19 +19,19 @@ Nikolai Stenfors
 nikolai.stenfors@umu.se   
 
 # Om författaren
-Jag jobbar som universitetslektor och docent vid [Enheten för Medicin, Institutionen för folkhälsa och klinisk medicin, Umeå Universitet](https://www.umu.se/personal/nikolai-stenfors/)  där jag bl.a. undervisar om Lungsjukdomar på [Läkarprogrammet](https://www.umu.se/utbildning/program/lakarprogrammet) och forskar kring luftvägseffekter av fysisk aktivitet i kyla.    
+Jag jobbar som universitetslektor och docent vid [Enheten för Medicin, Institutionen för folkhälsa och klinisk medicin, Umeå Universitet](https://www.umu.se/personal/nikolai-stenfors/)  där jag bl.a. undervisar om lungsjukdomar på [Läkarprogrammet](https://www.umu.se/utbildning/program/lakarprogrammet) och forskar kring luftvägseffekter av fysisk aktivitet i kyla.    
 Jag jobbar även som överläkare vid [Lungmottagningen Östersunds sjukhus](https://www.1177.se/Jamtland-Harjedalen/Hitta-vard/Jamtland/Kontakt/Lung-och-allergimottagningen/?ar=True) och gör sporadiskt inlägg på [Twitter](https://twitter.com/StenforsN).
 
 # För idrottare
 
 ## För dig med symtom
-Besvär vs symtom vs sjukdom
+Alla kroppsliga besvär behöver inte vara symtom på sjukdom. Är besvären från luftvägarna lindriga, snabbt övergående, inte konstanta men kanske återkommande och inte påverkar prestationsförmågan tycker jag du kan avvakta med att kontakta sjukvården.  Det är lätt och lockade att försöka hitta en koppling mellan symtomen och yttre omständigheter. Att föra en symtom-dagbok kan vara ett bra sätt att se om den kopplingen är konsekvent och inte slumpmässig.
 
 ### Astmaläkemedel utan astma
 Det kan i undantagsfall inträffa att en idrottare uppvisar symtom på [astma] (#astma).
 
 ### Hosta
-Ansträngningsutlöst hosta är vanligt förekommande bland idrottare och kan vara ett tecken på luftvägsinfektion eller annan sjukdom i övre eller nedre luftvägarna.
+Ansträngningsutlöst hosta är vanligt förekommande bland idrottare. Det kan avara svårt att slå fast om detta är luftvägarnas normala protest eller tecken på luftvägsinfektion eller annan sjukdom i övre eller nedre luftvägarna.
 
 ## [För dig med astma](#astma)   
 Astma är en kronisk inflammatorisk luftvägssjukdom som förekommer hos cirka 9% av Sveriges befolkning [ @loetvall-2009-west-sweden]. Individer med astma har överkänsliga (hyperreaktiva) luftrör som leder till återkommande episoder av luftrörsförträngning med pipande andning, tryck över bröstet, hosta och andfåddhet. Luftrörskrampen hävs spontant eller med hjälp av luftrörsvidgande inhalationsläkemedel. **Ansträngningsutlöst astma** innebär akut övergående luftrörssammandragning i samband med fysisk ansträngning och är mycket vanligt hos personer med astma.  
