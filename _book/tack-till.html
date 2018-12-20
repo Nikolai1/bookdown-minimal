@@ -65,18 +65,18 @@
 <li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Förord</a></li>
 <li class="chapter" data-level="2" data-path="om-forfattaren.html"><a href="om-forfattaren.html"><i class="fa fa-check"></i><b>2</b> Om författaren</a></li>
 <li class="chapter" data-level="3" data-path="for-idrottare.html"><a href="for-idrottare.html"><i class="fa fa-check"></i><b>3</b> För idrottare</a><ul>
-<li class="chapter" data-level="3.1" data-path="for-idrottare.html"><a href="for-idrottare.html#for-dig-med-symtom"><i class="fa fa-check"></i><b>3.1</b> För dig med symtom</a><ul>
-<li class="chapter" data-level="3.1.1" data-path="for-idrottare.html"><a href="for-idrottare.html#astmalakemedel-utan-astma"><i class="fa fa-check"></i><b>3.1.1</b> Astmaläkemedel utan astma</a></li>
-<li class="chapter" data-level="3.1.2" data-path="for-idrottare.html"><a href="for-idrottare.html#hosta"><i class="fa fa-check"></i><b>3.1.2</b> Hosta</a></li>
-</ul></li>
-<li class="chapter" data-level="3.2" data-path="for-idrottare.html"><a href="for-idrottare.html#for-dig-med-astma"><i class="fa fa-check"></i><b>3.2</b> <a href="for-sjukvardspersonal.html#astma">För dig med astma</a></a><ul>
-<li class="chapter" data-level="3.2.1" data-path="for-idrottare.html"><a href="for-idrottare.html#lakemedel"><i class="fa fa-check"></i><b>3.2.1</b> Läkemedel</a></li>
-<li class="chapter" data-level="3.2.2" data-path="for-idrottare.html"><a href="for-idrottare.html#varmevaxlareandningmasker"><i class="fa fa-check"></i><b>3.2.2</b> Värmeväxlare/andningmasker</a></li>
-<li class="chapter" data-level="3.2.3" data-path="for-idrottare.html"><a href="for-idrottare.html#uppvarmning"><i class="fa fa-check"></i><b>3.2.3</b> Uppvärmning</a></li>
+<li class="chapter" data-level="3.1" data-path="for-idrottare.html"><a href="for-idrottare.html#introduktion"><i class="fa fa-check"></i><b>3.1</b> Introduktion</a></li>
+<li class="chapter" data-level="3.2" data-path="for-idrottare.html"><a href="for-idrottare.html#hosta"><i class="fa fa-check"></i><b>3.2</b> Hosta</a></li>
+<li class="chapter" data-level="3.3" data-path="for-idrottare.html"><a href="for-idrottare.html#astma"><i class="fa fa-check"></i><b>3.3</b> Astma</a></li>
+<li class="chapter" data-level="3.4" data-path="for-idrottare.html"><a href="for-idrottare.html#luftvagsinfektioner"><i class="fa fa-check"></i><b>3.4</b> Luftvägsinfektioner</a></li>
+<li class="chapter" data-level="3.5" data-path="for-idrottare.html"><a href="for-idrottare.html#eilo"><i class="fa fa-check"></i><b>3.5</b> EILO</a><ul>
+<li class="chapter" data-level="3.5.1" data-path="for-idrottare.html"><a href="for-idrottare.html#lakemedel-vid-astma"><i class="fa fa-check"></i><b>3.5.1</b> Läkemedel vid astma</a></li>
+<li class="chapter" data-level="3.5.2" data-path="for-idrottare.html"><a href="for-idrottare.html#varmevaxlareandningmasker"><i class="fa fa-check"></i><b>3.5.2</b> Värmeväxlare/andningmasker</a></li>
+<li class="chapter" data-level="3.5.3" data-path="for-idrottare.html"><a href="for-idrottare.html#uppvarmning"><i class="fa fa-check"></i><b>3.5.3</b> Uppvärmning</a></li>
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="4" data-path="for-sjukvardspersonal.html"><a href="for-sjukvardspersonal.html"><i class="fa fa-check"></i><b>4</b> För sjukvårdspersonal</a><ul>
-<li class="chapter" data-level="4.1" data-path="for-sjukvardspersonal.html"><a href="for-sjukvardspersonal.html#astma"><i class="fa fa-check"></i><b>4.1</b> Astma</a><ul>
+<li class="chapter" data-level="4.1" data-path="for-sjukvardspersonal.html"><a href="for-sjukvardspersonal.html#astma-1"><i class="fa fa-check"></i><b>4.1</b> Astma</a><ul>
 <li class="chapter" data-level="4.1.1" data-path="for-sjukvardspersonal.html"><a href="for-sjukvardspersonal.html#diagnostik"><i class="fa fa-check"></i><b>4.1.1</b> Diagnostik</a></li>
 </ul></li>
 <li class="chapter" data-level="4.2" data-path="for-sjukvardspersonal.html"><a href="for-sjukvardspersonal.html#hosta-1"><i class="fa fa-check"></i><b>4.2</b> Hosta</a></li>
@@ -151,6 +151,19 @@ gitbook.start({
 });
 </script>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "";
+    if (src === "" || src === "true") src = "https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:" && /^https?:/.test(src))
+      src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 </body>
 
 </html>

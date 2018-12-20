@@ -10,7 +10,6 @@ documentclass: book
 bibliography: [references.bib]
 csl: the-lancet.csl
 link-citations: yes
-
 ---
 # Förord
 Detta är en populärvetenskaplig bok och vägledning för vuxna idrottare med luftvägsbesvär. Boken är tänkt att vara ett "levande dokument" som uppdateras fortlöpande. Lämna gärna synpunkter på eller önskemål om innehållet.  
@@ -24,29 +23,124 @@ Jag jobbar även som överläkare vid [Lungmottagningen Östersunds sjukhus](htt
 
 # För idrottare
 
-## För dig med symtom
-Alla kroppsliga besvär behöver inte vara symtom på sjukdom. Är besvären från luftvägarna lindriga, snabbt övergående, inte konstanta men kanske återkommande och inte påverkar prestationsförmågan tycker jag du kan avvakta med att kontakta sjukvården.  Det är lätt och lockade att försöka hitta en koppling mellan symtomen och yttre omständigheter. Att föra en symtom-dagbok kan vara ett bra sätt att se om den kopplingen är konsekvent och inte slumpmässig.
+## Introduktion
+Alla luftvägsbesvär behöver inte vara symtom på sjukdom. Är besvären från luftvägarna lindriga, snabbt övergående, sporadiska och inte påverkar prestationsförmågan tycker kan man avvakta med att kontakta sjukvården.  Det är lätt och lockade att försöka hitta en koppla sina luftvägsbesvär med yttre omständigheter. Att föra en symtom-dagbok kan vara ett bra sätt att se om den kopplingen är konsekvent och inte slumpmässig.
 
-### Astmaläkemedel utan astma
-Det kan i undantagsfall inträffa att en idrottare uppvisar symtom på [astma] (#astma).
+## Hosta
+Ansträngningsutlöst hosta är vanligt förekommande bland fysisk aktivtet i kyla. Det kan vara svårt att avgöra hostan är luftvägarnas naturliga protest mot överbelastning eller tecken på luftvägssjukdom, exvis luftvägsinfektion.
 
-### Hosta
-Ansträngningsutlöst hosta är vanligt förekommande bland idrottare. Det kan avara svårt att slå fast om detta är luftvägarnas normala protest eller tecken på luftvägsinfektion eller annan sjukdom i övre eller nedre luftvägarna.
-
-## [För dig med astma](#astma)   
+## Astma  
 Astma är en kronisk inflammatorisk luftvägssjukdom som förekommer hos cirka 9% av Sveriges befolkning [ @loetvall-2009-west-sweden]. Individer med astma har överkänsliga (hyperreaktiva) luftrör som leder till återkommande episoder av luftrörsförträngning med pipande andning, tryck över bröstet, hosta och andfåddhet. Luftrörskrampen hävs spontant eller med hjälp av luftrörsvidgande inhalationsläkemedel. **Ansträngningsutlöst astma** innebär akut övergående luftrörssammandragning i samband med fysisk ansträngning och är mycket vanligt hos personer med astma.  
 God kunskap om sjukdomen leder till bättre kontroll av sjukdomen och mindre besvär. Du kan läsa mer om sjukdomen på [1177 Vårdguiden](https://www.1177.se/Jamtland-Harjedalen/Fakta-och-rad/Sjukdomar/Astma/), [Hjärt-Lungfonden](https://www.hjart-lungfonden.se/Sjukdomar/Lungsjukdomar/Astma/) och [Läkemedelsverket](https://lakemedelsverket.se/malgrupp/Allmanhet/Behandlingsrekommendationerna/Behandlingsrekommendationer-A-O/Behandlingsrekommendationer---listan/Astma/).
 
-### Läkemedel
 
-En bra vägledning kring astmamediciner finns på [Läkemedelsverkets hemsida] https://lakemedelsverket.se/malgrupp/Allmanhet/Behandlingsrekommendationerna/Behandlingsrekommendationer-A-O/Behandlingsrekommendationer---listan/Astma/. Det är viktigt att läkemedelsbehandling utvärderas regelbundet (1-2 gånger per år) för se över graden av astmakontroll, dosering och eventuella biverkningar av läkemedlen, inhalationsteknik osv.   
+### Läkemedel vid astma
+
+En bra vägledning kring astmamediciner finns på [Läkemedelsverkets hemsida](https://lakemedelsverket.se/malgrupp/Allmanhet/Behandlingsrekommendationerna/Behandlingsrekommendationer-A-O/Behandlingsrekommendationer---listan/Astma/). Det är viktigt att läkemedelsbehandling utvärderas regelbundet (1-2 gånger per år) för se över graden av astmakontroll, dosering och eventuella biverkningar av läkemedlen, inhalationsteknik osv.   
 
 ### Värmeväxlare/andningmasker
 Värmeväxlande andningmasker minskar effektiv ansträngningsutlöst astma vid träning i kyla eller låg luftfuktighet. 
 En studie har visat att de kan vara lika effektiva som luftrörsvidgande astmamedicin [@millqvist-2000-combin-with].    
 
 ### Uppvärmning
-En uppvärmning mha 8-10 st 30 sekunders högintensiva intervaller kan förhindra att du drabbas av  ansträngningsutlöst astma. Effekten varar drygt en timme. En kontinuerlig låg-medelintensiv uppvärming utan intervaller ("jogga runt i en kvart") har ingen förebyggande effekt[@stickland-2012-effec-warm].     
+HOs individer med astma kan en uppvärmning mha 8-10 x 30 sekunders högintensiva intervaller kan förebygga ansträngningsutlöst astma. Effekten varar drygt en timme. En kontinuerlig låg-medelintensiv uppvärming utan intervaller ("jogga runt i en kvart") har ingen förebyggande effekt[@stickland-2012-effec-warm].     
+
+## Luftvägsinfektioner
+*** Bakgrund
+- Måttlig fysisk aktivitet - minskat antal luftvägsinfektioner
+- Hård fysisk träning- övergående försämring av kroppens immunförsvar
+  - Inte alltid associerat med ökad sjuklighet.
+- Elitidrott kräver att ett starkt immunförsvar för att motstå den hårda påfrestningen på kroppen.
+- Association med bronkiell hyperreaktivitet
+*** Mekanismer
+- T-celler, NK-celler, makrofager
+  - sänkt cytokinproduktion
+  - IL-1 och IL-10 (anti-inflammatoriska)
+- Sänkt antikroppsproduktion
+  - saliv-IgA
+- D-vitamin
+  - induktion av antimikrobiella peptider, autofagi och ROS
+*** Komplicerat att bevisa och undersöka
+- Diskrepans mellan symtom och objektiva fynd
+- Infektiösa agens i endast ca 30% av fallen
+  - Virus största andelen
+*** Epidemiologi elitidrott
+- Vinter-OS Sochi 2014
+  - 14% skadade och 8% sjuka
+  - 64% luftvägarna
+    - 58% luftvägsinfektioner
+- Tour de Ski 3 år
+  - 3 ggr ökad risk
+  - 48% av Tour de Ski-åkare vs 16% kontroller 
+- Norska elitskidåkare
+  - 3 luftvägsinfektioner/år
+  - 5 +/- 4 dagar.
+  - flygresor, tävling
+*** Differentialdiagnoser
+    - Astma
+    - Allergi
+    - Immunbrist
+    - Hypoglykemi
+    - Sömnbesvär
+    - Anemi/järnbrist
+
+
+
+## EILO 
+*** Exercise-induced laryngeal obstruction
+- Inducable laryngeal obstruction (ILO)
+  - e-ILO
+- Vocal cord dysfunction (VCD)
+- Exercise-induced inspiratory stridor (EIIS)
+- Exercise-related respiratory symptoms (ERRS)
+*** Symtom
+- Inspiratoriska symtom
+- Maximal *under* ansträngning
+- Går över inom 1-5 minuter
+*** Patogenes
+- Kraftig inandning
+  - kollaps av vävnader ovan stämbandsplanet
+  - paradoxal slutning av stämbanden
+- Genes okänd
+  - Bernoulli-effekt?
+*** Diagnostik
+-  [[file:~/nist0013@gapps.umu.se/Google%20Foto/20150923_112721.mp4][CLE]] (continuous laryngoscopy exercise test)
+*** Epidemiologi
+- Köpenhamn, 14–24 åringar 7,5%
+- Uppsala, 12-13 åringar 5,7%
+- 88 danska elitidrottare med ERRS
+  - 35% EILO
+  - 60% astmamediciner
+  - 60% utan stöd för astma
+- 148 amerikanska idrottare med ERRS
+  - 52% EIB
+  - 17% astma
+  - 70% VCD
+*** Behandling
+- Information
+- Andningsövningar
+- Logoped
+- Operation/supraglottoplastik
+*** Prognos
+- God?
+- "Spontanläkning"?
+- 20 elitidrottande kvinnor med VCD (12-17 år)
+  - Sjukdomsinformation, röst- och andningsövningar och beteendemodifikation
+  - 95% fick lindring
+  - astmamediciner
+    - före: 19 av 20
+    - efter: 4 av 20 
+
+*** Preliminära data Östersund
+- 69 svenska skidåkare
+  - 18 (16-33) år
+  - 54% kvinnor
+  - tränar 11 tim/v
+  - 36% medicinerar för astma
+- 24 (38%) EILO
+  - 10(41%) symtomatiska
+  - 17(71%) kvinnor
+* 
 
 # För sjukvårdspersonal
 
@@ -54,18 +148,18 @@ En uppvärmning mha 8-10 st 30 sekunders högintensiva intervaller kan förhindr
 
 ### Diagnostik
 Upprepade mätningar av PEF eller FEV1 under 1-2 veckor kan användas för att påvisa reversibel bronkobstruktion, ett nyckelkriterium för astma. Sensitiviteten för dessa diagnostiska test ligger på ca 50% [Referens].  
-PEF mäts två gånger per dag under 1 vecka. Varje dag beräknas PEF-variabiliteten ((bästa PEF-lägsta
-PEF)/medelvärdet av dagens två mätningar). Efter en veckas mätningar
+PEF mäts två gånger per dag under 1 vecka. Varje dag beräknas PEF-variabiliteten ($(bästa PEF-lägsta
+PEF)/medelvärdet av dagens två mätningar)$. Efter en veckas mätningar
 beräknas medelvärdet av dessa sju mätningar. Signifikant
 PEF-variabilitet föreligger om medelvärdet av sju mätningar > 10%. 
 En signifikant **dygns-variabilitet** anses föreligga om  PEF varierar mer än 20% inom ett dygn. För att öka sannolikheten att påvisa dygn-variabilitet rekommenderas minst 4 PEF-mätningar jämnt fördelat över ett dygn. Mätningarna bör göras över 1-2 veckor. 
 
-FEV1 kan mätas några gånger under förslagsvis 1-2 veckor. Om bästa-sämsta FEV1 skiljer sig mer än 12% OCH 0,2L föreligger signifikant FEV1-variabilitet.
+FEV1 kan mätas några gånger under förslagsvis 1-2 veckor. Om bästa-sämsta FEV1 skiljer sig mer än 12% OCH 0,2 liter föreligger signifikant FEV1-variabilitet.
 
 
 
 ## Hosta
-En första medicinsk bedömning av idrottare med akut eller återkommande hosta bör fokusera på de vanligaste orsakerna: astma, luftvägsinfektioner, rinosinusit och exponering för irritanter/allergen i idrottarens omgivning. Hos idrottare där utlösande orsak inte kunnat fastställas har flertalet olika behandlingar, fra inhalationsläkemedel, provats utan övertygande effekt [@boulet-2017-cough-athlet] 
+En första medicinsk bedömning av idrottare med akut eller återkommande hosta bör fokusera på de vanligaste orsakerna: astma, luftvägsinfektioner, rinosinusit och exponering för irritanter/allergen. Hos idrottare där utlösande orsak inte kunnat fastställas har flertalet olika behandlingar, fra inhalationsläkemedel, provats utan övertygande effekt [@boulet-2017-cough-athlet] 
 
 # Tack till  
 Jag vill tacka tränare och ledare vid Svenska Skidförbundet, Svenska Skidskytteförbundet och Riksidrottsgymnasierna (längdskidor, skidskytte, skidorientering, orientering) för inspiration till denna bok.
