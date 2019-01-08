@@ -3,8 +3,9 @@ title: "Idrott och luftvägarna"
 author: "Nikolai Stenfors"
 date: '2018-10-25'
 output:
-  bookdown::gitbook: default
+  #bookdown::gitbook: default
   #bookdown::pdf_book: default
+  bookdown::pdf_document2
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [references.bib]
@@ -46,43 +47,9 @@ En studie har visat att de kan vara lika effektiva som luftrörsvidgande astmame
 HOs individer med astma kan en uppvärmning mha 8-10 x 30 sekunders högintensiva intervaller kan förebygga ansträngningsutlöst astma. Effekten varar drygt en timme. En kontinuerlig låg-medelintensiv uppvärming utan intervaller ("jogga runt i en kvart") har ingen förebyggande effekt[@stickland-2012-effec-warm].     
 
 ## Luftvägsinfektioner
-*** Bakgrund
-- Måttlig fysisk aktivitet - minskat antal luftvägsinfektioner
-- Hård fysisk träning- övergående försämring av kroppens immunförsvar
-  - Inte alltid associerat med ökad sjuklighet.
-- Elitidrott kräver att ett starkt immunförsvar för att motstå den hårda påfrestningen på kroppen.
-- Association med bronkiell hyperreaktivitet
-*** Mekanismer
-- T-celler, NK-celler, makrofager
-  - sänkt cytokinproduktion
-  - IL-1 och IL-10 (anti-inflammatoriska)
-- Sänkt antikroppsproduktion
-  - saliv-IgA
-- D-vitamin
-  - induktion av antimikrobiella peptider, autofagi och ROS
-*** Komplicerat att bevisa och undersöka
-- Diskrepans mellan symtom och objektiva fynd
-- Infektiösa agens i endast ca 30% av fallen
-  - Virus största andelen
-*** Epidemiologi elitidrott
-- Vinter-OS Sochi 2014
-  - 14% skadade och 8% sjuka
-  - 64% luftvägarna
-    - 58% luftvägsinfektioner
-- Tour de Ski 3 år
-  - 3 ggr ökad risk
-  - 48% av Tour de Ski-åkare vs 16% kontroller 
-- Norska elitskidåkare
-  - 3 luftvägsinfektioner/år
-  - 5 +/- 4 dagar.
-  - flygresor, tävling
-*** Differentialdiagnoser
-    - Astma
-    - Allergi
-    - Immunbrist
-    - Hypoglykemi
-    - Sömnbesvär
-    - Anemi/järnbrist
+Det finns studier på att hård fysisk träning ger en övergående försämring av kroppens immunförsvar. Denna nedsättning i immunförsvaret leder inte alltid till en infektion. Många hävdar att elitidrott kräver ett starkt immunförsvar för att motstå den hårda påfrestningen på kroppen och att därför kan elitidrottare i allmänhet anses ha ett bra immunförsvar.  
+Det är komplicerat att vetenskapligt studera och bevisa sambandet mellan hård fysisk träning och infektioner. De är inte alltid idrottare med symtom på infektion uppvisar några objektiva tecken eller bevis på infektion, framförallt virus (sällan bakterier) kan påvisas i endast ca 30% av idrottare med symtom.   
+Under vinter-OS i Sochi 2014 blev 14% av idrottarna skadade och 8% sjuka. Av de som blev sjuka utgörde 64% problem från luftvägarna, varav 58% utgjordes av luftvägsinfektioner [@soligard15]. Deltagare i Tour de Ski har en 3 gånger ökad risk att drabbas av luftvägsinfektion jämfört med skidåkare som inte deltar i touren [@svendsen2015]. Norska elitskidåkare har i medeltal 3 luftvägsinfektioner/år som varar i medeltal 5 dagar. Flygresor och tävling innebär en ökad risk för luftvägsinfektioner [@svendsen2016].
 
 
 
