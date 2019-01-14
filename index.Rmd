@@ -44,7 +44,7 @@ Värmeväxlande andningmasker minskar effektiv ansträngningsutlöst astma vid t
 En studie har visat att de kan vara lika effektiva som luftrörsvidgande astmamedicin [@millqvist-2000-combin-with]. Det finns många friska idrottare utan astma som upplever att det är behagligt att använda värmeväxlande andningmasker vid träning i kyla. Det finns däremot inga studier som undersökt om Värmeväxlande andningmasker kan förebygga astma hos friska skidåkare.    
 
 ### Uppvärmning
-HOs individer med astma kan en uppvärmning mha 8-10 x 30 sekunders högintensiva intervaller kan förebygga ansträngningsutlöst astma. Effekten varar drygt en timme. En kontinuerlig låg-medelintensiv uppvärming utan intervaller ("jogga runt i en kvart") har ingen förebyggande effekt[@stickland-2012-effec-warm].     
+Hos individer med astma kan en uppvärmning mha 8-10 x 30 sekunders högintensiva intervaller kan förebygga ansträngningsutlöst astma. Effekten varar drygt en timme. En kontinuerlig låg-medelintensiv uppvärming utan intervaller ("jogga runt i en kvart") har ingen förebyggande effekt[@stickland-2012-effec-warm].     
 
 ## Luftvägsinfektioner
 Det finns studier på att hård fysisk träning ger en övergående försämring av kroppens immunförsvar. Denna nedsättning i immunförsvaret leder inte alltid till en infektion. Många hävdar att elitidrott kräver ett starkt immunförsvar för att motstå den hårda påfrestningen på kroppen och att därför kan elitidrottare i allmänhet anses ha ett bra immunförsvar.  
@@ -54,22 +54,11 @@ Under vinter-OS i Sochi 2014 blev 14% av idrottarna skadade och 8% sjuka. Av de 
 
 
 ## EILO 
-*** Exercise-induced laryngeal obstruction
-- Inducable laryngeal obstruction (ILO)
-  - e-ILO
-- Vocal cord dysfunction (VCD)
-- Exercise-induced inspiratory stridor (EIIS)
-- Exercise-related respiratory symptoms (ERRS)
-*** Symtom
-- Inspiratoriska symtom
-- Maximal *under* ansträngning
-- Går över inom 1-5 minuter
-*** Patogenes
-- Kraftig inandning
-  - kollaps av vävnader ovan stämbandsplanet
-  - paradoxal slutning av stämbanden
-- Genes okänd
-  - Bernoulli-effekt?
+Ansträngnings-utlöst kramp i luftstrupen (EILO; exercise-induced laryngeal obstruction) är en sjukdom som uppmärksammats allt mer senaste åren. 
+EILO innebär att kraftig ansträning och ventilation medför en kollaps av vävnader ovan stämbandsplanet eller en paradoxal slutning av stämbanden. Orksaen är okänd.
+Symtomen kommer oftast *under* maximal ansträngning (exvis tävling, hårda intervaller)Idrottaren. Idrottaren får framförallt besvär med att andas in men symtomen brukar oftas gå över så gott som omedelbart efter avslutad ansträngning eller inom någon minut.
+Diagnosen ställs genom [CLE](https://www.youtube.com/watch?v=nRSSyq32GM0); mha titthåls-metoden inspektera, området runt, stämbanden under maximal fysisk ansträngning på cykel eller löpband.
+
 *** Diagnostik
 -  [[file:~/nist0013@gapps.umu.se/Google%20Foto/20150923_112721.mp4][CLE]] (continuous laryngoscopy exercise test)
 *** Epidemiologi
