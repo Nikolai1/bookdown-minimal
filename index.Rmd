@@ -41,7 +41,7 @@ En bra vägledning kring astmamediciner finns på [Läkemedelsverkets hemsida](h
 
 ### Värmeväxlare/andningmasker
 Värmeväxlande andningmasker minskar effektiv ansträngningsutlöst astma vid träning i kyla eller låg luftfuktighet. 
-En studie har visat att de kan vara lika effektiva som luftrörsvidgande astmamedicin [@millqvist-2000-combin-with].    
+En studie har visat att de kan vara lika effektiva som luftrörsvidgande astmamedicin [@millqvist-2000-combin-with]. Det finns många friska idrottare utan astma som upplever att det är behagligt att använda värmeväxlande andningmasker vid träning i kyla. Det finns däremot inga studier som undersökt om Värmeväxlande andningmasker kan förebygga astma hos friska skidåkare.    
 
 ### Uppvärmning
 HOs individer med astma kan en uppvärmning mha 8-10 x 30 sekunders högintensiva intervaller kan förebygga ansträngningsutlöst astma. Effekten varar drygt en timme. En kontinuerlig låg-medelintensiv uppvärming utan intervaller ("jogga runt i en kvart") har ingen förebyggande effekt[@stickland-2012-effec-warm].     
